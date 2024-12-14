@@ -1,5 +1,5 @@
 import React from 'react'
-import { chatStore } from '../store/chat'
+import { chatStore } from '../store/Chat'
 import Sidebar from '../components/Sidebar';
 import NoChat from '../components/NoChat';
 import Chat from '../components/Chat'
