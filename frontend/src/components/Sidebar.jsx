@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { chatStore } from '../store/chat'
+import { chatStore } from '../store/Chat'
 import { useEffect } from 'react';
 import { AuthBase } from '../store/Auth';
 import SidebarSkeleton from './skeletons/SidebarSkeleton';

@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState,useRef } from 'react'
-import { chatStore } from '../store/chat'
+import { chatStore } from '../store/Chat'
 import { X, Image, Send } from 'lucide-react'
 const MessageInput = () => {
     const [text,setText] = useState("")
